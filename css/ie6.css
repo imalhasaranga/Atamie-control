@@ -1,0 +1,23 @@
+
+.textnews1 {color: #727272;
+				width: 240px;
+				text-align: left;
+				margin-left: 6px;
+				padding-bottom: 10px;}
+				.textnews1 a {color:#0f5ac1; }
+				
+.header_links {
+			text-align: center;
+			position: absolute;
+			top: 1px;
+			right: 266px;
+			background-image:url(../img/upmenu_border.gif); background-position:left top; background-repeat:no-repeat;
+			height:38px;
+			width:190px;}
+
+		.header_links a {
+			color:#0f5ac1; }
+			.header_link{
+				background:url(../img/upmenu_border.gif); background-position:right top; background-repeat: no-repeat; height:38px; width:180px; padding:10px 10px;}
+
+				

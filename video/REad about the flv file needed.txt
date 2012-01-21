@@ -1,0 +1,3 @@
+the project needs a flv file for the index page , that particular file is not added here 
+you just have to add 
+a.flv 
